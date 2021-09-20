@@ -80,7 +80,6 @@ See README.md for details.
         +   [3.19.13 Conditional Imports](#s3.19.13-conditional-imports)
         +   [3.19.14 Circular Dependencies](#s3.19.14-circular-dependencies)
         +   [3.19.15 Generics](#s3.19.15-generics)
-        +   [3.19.16 Build Dependencies](#s3.19.16-build-dependencies)
 -   [4 Parting Words](#4-parting-words)
 
 </details>
